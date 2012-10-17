@@ -12,8 +12,8 @@ module Alchemist
       def handle_basics(message);end
       def handle_compounds(message);end
       def handle_messages(message);end
-      def handel_avatars(message);end
-      def handel_location(message);end
+      def handle_avatars(message);end
+      def handle_location(message);end
       def handle_error(message);end
       def handle_element(message);end
       def handle_noelement(message);end
