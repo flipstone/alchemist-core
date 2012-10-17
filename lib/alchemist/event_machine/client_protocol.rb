@@ -103,7 +103,7 @@ module Alchemist
       end
 
       def message(number, string)
-        send_data "message #{number} #{string}"
+        send_data "message #{number} #{string}\n"
       end
 
       def take
